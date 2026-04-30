@@ -5,14 +5,6 @@
 
 ---
 
-### 🏛️ Organization Mission
-<p align="center">
-  Building high-performance web systems, automation bots, and management tools <br> 
-  dedicated to the <b>German Military Border</b> community on Roblox.
-</p>
-
----
-
 ### 🚀 Tech Stack Matrix
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,vsc,express,mongodb" />
@@ -32,11 +24,8 @@
   </tr>
 </table>
 
----
-
-### 🐍 Contribution Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davids-German-Army/Davids-German-Army/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Davids-German-Army/Davids-German-Army/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
