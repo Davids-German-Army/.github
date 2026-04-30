@@ -7,7 +7,7 @@
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,vsc,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,express,mongodb" />
 </p>
 
 ---
@@ -23,10 +23,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Davids-German-Army/Davids-German-Army/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
