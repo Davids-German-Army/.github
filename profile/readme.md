@@ -7,24 +7,11 @@
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,vsc,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,postgresql,express,mongodb" />
 </p>
 
 ---
 
-### 📊 Organization Activity
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Davids-German-Army&show_icons=true&theme=tokyonight&hide_border=true&is_org=true" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davids-German-Army&layout=compact&theme=tokyonight&hide_border=true&is_org=true" />
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📱 Connect & Play
 <p align="center">
