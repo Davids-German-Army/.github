@@ -7,7 +7,7 @@
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,postgresql,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,github,linux,git,postgresql,express,mongodb,vscode" />
 </p>
 
 ---
