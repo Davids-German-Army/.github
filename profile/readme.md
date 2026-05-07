@@ -1,4 +1,4 @@
-# <p align="center">🎖️ Davids-German-Army</p>
+# <p align="center">🎖️ David's German Army | Roblox</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=500&lines=German+Military+Border+Infrastructure;Official+DGA+Roblox+Army;Developing+the+Next+Generation+of+Milsim" alt="Typing SVG" />
 </p>
