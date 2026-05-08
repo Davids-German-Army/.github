@@ -29,3 +29,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Davids-German-Army&label=Organization%20Views&color=777BB4&style=flat-square" />
 </p>
+
+---
+
+### CONTACT US
+
+**Primary Contact:** `admin@davidsgermanarmy.online`  
+**Secondary Contact:** `developer@dcistudios.xyz`
+
+**Web Design Operations:**
+| Role | Member |
+|------|------|
+| Lead | `Carter` |
+| Assistant, Director of Internal Operations // Security Advisor | `Preston` |
+
