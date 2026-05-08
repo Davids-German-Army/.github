@@ -41,5 +41,5 @@
 | Role | Member |
 |------|------|
 | Deputy Director of Internal Operations, Design President | `Carter` |
-| Assistant, Director of Internal Operations // Security Advisor | `Preston` |
+| Design Assistant, Director of Internal Operations // Security Advisor | `Preston` |
 
