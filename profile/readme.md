@@ -40,6 +40,6 @@
 **Web Design Operations:**
 | Role | Member |
 |------|------|
-| Lead | `Carter` |
+| Deputy Director of Internal Operations, Design President | `Carter` |
 | Assistant, Director of Internal Operations // Security Advisor | `Preston` |
 
